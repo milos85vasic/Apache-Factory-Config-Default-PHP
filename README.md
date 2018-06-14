@@ -1,2 +1,2 @@
-# -Apache-Factory-Config-Default-PHP
+# Apache Factory default PHP configuration
 Default Apache Factory configuration for PHP.
